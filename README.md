@@ -13,7 +13,7 @@ Install darknet framework writing in C on Jetson Nano
    
 ## 2. Download model 
 
-Download Image Classification pretrain model 1000 classes from ImgaeNet dataset training in darknet framework
+Download Image Classification pretrain model 1000 classes from ImgaeNet dataset training in darknet framework. [Source](https://pjreddie.com/darknet/imagenet/)
 
     cd ~
     cd image_classification_darknet_jetson_nano
