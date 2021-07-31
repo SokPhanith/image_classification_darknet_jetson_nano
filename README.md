@@ -1,3 +1,5 @@
+
+![Screenshot from 2021-08-01 00-01-48](https://user-images.githubusercontent.com/61908603/127747219-fbb13355-88a1-474f-afc5-1f67b5b7c5ce.png)
 ## 1. Setup
 
 Install darknet framework writing in C on Jetson Nano 
